@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.top.header {
+    text-align: center;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.index.description {
+    text-align: center;
+}
+
+.index.chefgif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+/* ^^centers mainpage gif */
+
+.center.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+/* ^^centers pics for other pages */
+
+.ice.color {
+    color: rgb(93, 134, 255);
+}
